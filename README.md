@@ -63,7 +63,7 @@ Ou simplesmente abra o `index.html` no navegador para visualizar a tela.
 ## 🔗 Links úteis
 
 - [Documentação oficial do Tailwind CSS](https://tailwindcss.com/docs)  
-- [Repositório Hora da Leitura](https://github.com/JonathanRenanBorges/hora-da-leitura)
+- [Repositório Hora da Leitura](https://github.com/JonathanRenanBorges/horadaleitura)
 
 ---
 
