@@ -46,7 +46,7 @@ git clone https://github.com/JonathanRenanBorges/login_tailwind
 Acesse a pasta do projeto:
 
 ```
-cd login_tailwind/login
+cd login
 ```
 
 Se estiver usando Tailwind com setup local (npm/postcss):
