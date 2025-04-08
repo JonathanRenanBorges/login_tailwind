@@ -1,4 +1,5 @@
 Tela de Login – Hora da Leitura
+
 📖 Descrição
 Este projeto é uma tela de login moderna e responsiva, desenvolvida com Tailwind CSS, utilizando o logo e a identidade visual do projeto Hora da Leitura. A proposta é entregar uma interface simples, limpa e fácil de integrar a qualquer aplicação que precise de um sistema de autenticação com visual agradável e padronizado.
 
