@@ -1,5 +1,4 @@
 Tela de Login – Hora da Leitura
-
 📖 Descrição
 Este projeto é uma tela de login moderna e responsiva, desenvolvida com Tailwind CSS, utilizando o logo e a identidade visual do projeto Hora da Leitura. A proposta é entregar uma interface simples, limpa e fácil de integrar a qualquer aplicação que precise de um sistema de autenticação com visual agradável e padronizado.
 
@@ -32,6 +31,14 @@ As cores características do projeto, aplicadas em botões, plano de fundo e ele
 
 Um layout minimalista e moderno que respeita a proposta visual do sistema
 
+📂 Estrutura de Pastas
+pgsql
+Copiar
+Editar
+login/
+└── login/
+    ├── index.html
+    └── styles (se aplicável)
 📦 Como Clonar e Usar
 Clone o projeto com o seguinte comando:
 
@@ -45,12 +52,14 @@ bash
 Copiar
 Editar
 cd login_tailwind/login
+Se estiver usando Tailwind com setup local (npm/postcss):
 
 bash
 Copiar
 Editar
 npm install
 npm run dev
+Ou simplesmente abra o index.html no navegador para visualizar a tela.
 
 🔗 Links úteis
 Documentação oficial do Tailwind CSS
